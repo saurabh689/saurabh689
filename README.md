@@ -2,7 +2,7 @@
 - 👀 I’m interested in programmming
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on datascience projects
-- 📫 reach me at @imsaurhub on twitter 
+- 📫 reach me on twitter 
 
 <!---
 saurabh689/saurabh689 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
